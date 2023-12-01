@@ -1,0 +1,74 @@
+.footer-bg{
+    height: 580px;
+    width: auto;
+}
+
+.content{
+    margin-top: 10%;
+    justify-content: center;
+}
+
+.txt-content{
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+}
+
+.copyright{
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px; 
+    padding-top: 163px;
+}
+
+.org-title{
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.organizers{
+    margin-left: 163px;
+    margin-top: 24px;
+}
+
+.org-info{
+    width: 483px;
+    height: 73px;
+    flex-shrink: 0;
+    margin-top: 44px;
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px; /* 156.25% */
+}
+
+.org-email{
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 29px;
+    text-decoration-line: underline;
+}
+
+.social{
+    margin-left: 112px;
+}
+
+.soc-landmark{
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px; 
+    margin-top: 322px;
+    text-align: right;
+}

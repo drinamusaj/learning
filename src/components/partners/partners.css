@@ -1,0 +1,23 @@
+.partner-bg{
+
+    width: auto;
+    height: 231.468px;
+    flex-shrink: 0;
+    background: #010057;
+    margin-top: 306px;
+}
+
+.partner-txt{
+    color: #FFF;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 163px;
+    padding-top: 99px;
+}
+
+.partners-logo{
+    margin-left: 177px;
+    margin-top: 75px;
+}

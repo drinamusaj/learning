@@ -1,0 +1,49 @@
+.events-container {
+    display: flex;
+  }
+  
+  .tabs-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .tab {
+    cursor: pointer;
+    
+  }
+  
+  .tabs-container .tab.active .tab-title {
+    color: #CEEF49;
+  }
+  
+  .content-container {
+    margin-left: 20px;
+  }
+
+  .events-title{
+    padding-left: 222px;
+    color: #343379;
+    text-align: left;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 0px; /* 0% */
+    letter-spacing: 4.4px;
+    text-transform: uppercase;
+    padding-top: 557px;
+;
+
+  }
+
+  .tab-title{
+    color: rgba(1, 0, 87, 0.80);
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 1.92px;
+    margin-left: 222px;
+    padding-top: 57px;;
+  }
+
+  
